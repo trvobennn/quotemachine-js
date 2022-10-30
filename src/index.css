@@ -6,7 +6,7 @@ body {
  
 }
 #quote-box {
-  position: relative;
+  position: relative; float: center;
   margin: 0 auto; margin-top: 20%;
   background-color: rgb(45, 51, 60);
   width: 450px;
